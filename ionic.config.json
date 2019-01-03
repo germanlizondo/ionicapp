@@ -1,5 +1,8 @@
 {
   "name": "pruebaionic",
-  "integrations": {},
-  "type": "ionic-angular"
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "id": "79752450"
 }
